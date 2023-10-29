@@ -1,9 +1,13 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Bao
-  given-names: Honglin
-orcid: https://orcid.org/0000-0003-1112-2057
-title:Counterfactual simulation of the impact of rhetorical citations in science
-version: release
+- family-names: "Honglin"
+  given-names: "Bao"
+  orcid: "https://orcid.org/0000-0003-1112-2057"
+- family-names: "Misha"
+  given-names: "Teplitskiy"
+  orcid: "https://orcid.org/0000-0002-2839-7228"
+title: "Counterfacutual simulation of the impact of rhetorical citations in science"
+doi: 10.5281/zenodo.10038833
 date-released: 2023-10-24
+url: "https://github.com/hlbao/rhetorical_citing"
