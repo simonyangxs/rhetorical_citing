@@ -1,8 +1,8 @@
-# The Substantive Impact of Rhetorical Citations in Science
+# A simulation-based analysis of the impact of rhetorical citations in science
 
 Honglin Bao (Harvard Business School hbao@hbs.edu) and Misha Teplitskiy (University of Michigan tepl@umich.edu)
 
-This is the GitHub repository for our preprint "The substantive impact of rhetorical citations in science". An earlier version of the paper is available here: https://arxiv.org/abs/2304.06190.
+This is the GitHub repository for our preprint "A simulation-based analysis of the impact of rhetorical citations in science". An earlier version of the paper is available here: https://arxiv.org/abs/2304.06190.
 
 We have implemented 6 models:
 
