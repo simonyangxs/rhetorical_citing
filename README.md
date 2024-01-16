@@ -2,7 +2,7 @@
 
 Honglin Bao (Harvard Business School hbao@hbs.edu) and Misha Teplitskiy (University of Michigan tepl@umich.edu)
 
-This is the GitHub repository for our preprint "A simulation-based analysis of the impact of rhetorical citations in science". An earlier version of the paper is available here: https://arxiv.org/abs/2304.06190.
+This is the GitHub repository for our preprint "A simulation-based analysis of the impact of rhetorical citations in science". An earlier version of the paper is available here: https://arxiv.org/abs/2304.06190. Paper: https://www.nature.com/articles/s41467-023-44249-0
 
 We have implemented 6 models:
 
